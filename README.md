@@ -1,5 +1,4 @@
-# datafun-06-eda.
-Start a New Project
+# Start a New Project
 
 # 1. Project Setup
 
